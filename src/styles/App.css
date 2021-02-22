@@ -20,4 +20,17 @@
 
 button {
   min-width: 80px;
+  margin-top: 15px;
+  margin-left: 300px;
 }
+#slide{
+  border: solid 1px black;
+  width: 50%;
+  background-color: lightblue;
+  margin-left: 20%;
+}
+h1,p{
+  margin-top: 40px;
+  text-align: center;
+}
+
